@@ -1,0 +1,39 @@
+# =========================
+# Node.js Dependencies
+# =========================
+server/node_modules/
+client/node_modules/
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment Variables
+# =========================
+server/.env
+client/.env
+
+# =========================
+# Build Outputs
+# =========================
+client/build/
+server/dist/
+
+# =========================
+# OS / Editor files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Misc
+# =========================
+*.cache
